@@ -1,0 +1,11 @@
+Code Segment Distribution: 
+
+Sudoku.h: Kyle Fynn - 0409075
+Sudoku.cpp: Kyle Fynn - 0409075
+SudokuBoard.h: Kyle Fynn - 0409075
+SudokuBoard.cpp: Kyle Fynn - 0409075
+SudokuGame.h: Amal Nair - 0420165
+SudokuGame.cpp: Amal Nair - 0420165
+Solver.h: Mohammed etminan sabil - 0439702
+Solver.cpp: Mohammed etminan sabil - 0439702
+main.cpp: Amal Nair - 0420165
