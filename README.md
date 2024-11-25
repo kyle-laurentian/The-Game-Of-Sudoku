@@ -29,6 +29,7 @@ These paths are the same in both Debug and Release configuration, so you can set
 2. Libraries must be added in the project's properties, in Linker » Input » Additional Dependencies. Add the following: "sfml-graphics.lib", "sfml-window.lib" and "sfml-system.lib".
 
 If these instructions aren't adequate the earlier provided link goes into further detail on the installation steps
+If you are following the website instructions: we did not make our project libraries static so ignore that instruction
 
 After these steps are completed run the VS code project with all of the files present and you should be good to go
 
