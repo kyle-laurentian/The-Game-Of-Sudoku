@@ -1,8 +1,8 @@
 # The-Game-Of-Sudoku
 Sudoku game for which you can save and load files
 
-This is a README file for the installation and execution of "The Game Of Sudoku" by group 4
-The code is typically ran in Microsoft Visual Studio on windows machines
+This is a README file for the installation and execution of "The Game Of Sudoku" by group 4.
+The code is typically ran in Microsoft Visual Studio on windows machines. 
 To start you will need to have created a project and inserted all of the following files, they are listed below: 
 - main.cpp
 - Sudoku.h
@@ -11,14 +11,14 @@ To start you will need to have created a project and inserted all of the followi
 - SudokuBoard.cpp
 - SudokuGame.h
 - SudokuGame.cpp
-- saved_game.txt
 
-  Ensure the saved_game.txt is in the file path for the VS code project
+Next create a file called saved_file.txt.
+Ensure the saved_game.txt is in the file path for the VS code project.
 
-Next you will need to download and install the SFML library for visual studio code
+Next you will need to download and install the SFML library for visual studio code.
 The version we used was 2.6.2 and instructions can be found through this link: https://www.sfml-dev.org/tutorials/2.6/start-vc.php
 
-After downloading SFML's 2.6.2 version follow the guide instructions in order to implement it properly in microsft VS
+After downloading SFML's 2.6.2 version follow the guide instructions in order to implement it properly in microsft VS.
 
 The two key instructions are:
 
