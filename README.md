@@ -3,7 +3,7 @@ Sudoku game for which you can save and load files
 
 This is a README file for the installation and execution of "The Game Of Sudoku" by group 4
 The code is typically ran in Microsoft Visual Studio on windows machines
-To start you will need to have all of the files, they are listed below: 
+To start you will need to have created a project and inserted all of the following files, they are listed below: 
 - main.cpp
 - Sudoku.h
 - Sudoku.cpp
